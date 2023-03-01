@@ -1,12 +1,32 @@
-body{background-color:rgb(28, 178, 204);
-color: white;}
-p color: black;}
+.body{
+background-color:rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+}
+
+.p{
+color: rgb(80, 201, 9);
 fond-size: 22px;
-span(color: red;
-fond-size: 33px
+}
+
+.span{
+color: red;
+fond-size: 33px;
+}
+
+.button {
+   
+
+}
 
 
-button
-    
+table{
 
+    width: 100%;
+    border-collapse: collapse;;
+
+}
+
+td{
+    border: 2px solid #444343;
+    padding: 15px;
 }
